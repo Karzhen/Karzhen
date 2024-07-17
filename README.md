@@ -11,11 +11,11 @@
 Ещё недавно я закончил Rolling Scopes School, а сейчас я готов к работе.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="width: 45%; text-align: center;">
+    <div style="width: 35%; text-align: center;">
         <img src="assets/stage-1-1.png" alt="Stage 1" style="width: 100%;"><br>
         <p>Stage 0</p>
     </div>
-    <div style="width: 45%; text-align: center;">
+    <div style="width: 35%; text-align: center;">
         <img src="assets/stage-2-1.png" alt="Stage 2" style="width: 100%;"><br>
         <p>Stage 1-2</p>
     </div>
