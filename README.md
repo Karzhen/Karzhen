@@ -1,65 +1,122 @@
-<div align="center">
-  <img height="300" width="600" src="https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif"  />
-</div>
+<h1 align="center">Привет, я Егор 👋</h1>
 
-###
-<div align="center">
-    <h1>Привет, Мир! 👋</h1>
-</div>
+<p align="center">
+  Frontend Developer · React · TypeScript
+</p>
 
-### Меня зовут **Егор** и я фронтенд разработчик.
-Ещё недавно я закончил Rolling Scopes School, а сейчас я готов к работе.
+<p align="center">
+  Делаю интерфейсы для сложных систем, люблю понятный UI, предсказуемое состояние и код, который не страшно открывать через полгода.
+</p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="width: 35%; text-align: center;">
-        <img src="assets/stage-1-1.png" alt="Stage 1" style="width: 100%;"><br>
-        <p>Stage 0</p>
-    </div>
-    <div style="width: 35%; text-align: center;">
-        <img src="assets/stage-2-1.png" alt="Stage 2" style="width: 100%;"><br>
-        <p>Stage 1-2</p>
-    </div>
-</div>
+---
 
-Вы можете связаться со мной:
+## 🧑‍💻 Обо мне
 
+Frontend-разработчик с опытом работы над enterprise-приложениями:  
+таблицы, фильтры, поиск, асинхронные сценарии, сложные бизнес-сущности и legacy-код, который иногда смотрит на тебя первым.
 
-<div>
-    <h3>Технологии, изученные во время обучения:</h3>
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-    <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JS logo"  />
-    <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TS logo"  />
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="GIT logo"  />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"  />
-    <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
-    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-    <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo"  />
-    <img src="assets/eslint.svg" height="40" alt="ESLint logo"  />
-    <img src="assets/prettier.svg" height="40" alt="Prettier logo"  />
-    <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="WebStorm logo"  />
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo"  />
-    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux logo"  />
-    <img src="assets/chatgpt.svg" height="40" alt="ChatGPT logo"  />
-    <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js logo"  />
-    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
+Мне интересно не только писать UI, но и понимать продукт, сценарии пользователей и архитектуру приложения целиком.
 
-Также я являюсь аспирантом СПб ФИЦ РАН
+Также был опыт вайбкодинга на Go. Иногда даже успешно.
+Сейчас активно пробую себя и реализую мобильное детище, которое скоро будет в App Store.
 
-<div>
-    <h3>В аспирантуре я работаю с:</h3>
-    <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-</div>
+---
 
+## 🛠️ Технологии
 
-###
+### Frontend
 
-<h3 align="left">🔥   Моя статистика :</h3>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux)
+![MobX](https://img.shields.io/badge/MobX-20232A?style=for-the-badge&logo=mobx)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite)
+![Webpack](https://img.shields.io/badge/Webpack-20232A?style=for-the-badge&logo=webpack)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karzhen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karzhen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Backend & Tools
+
+![Go](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase)
+
+---
+
+## 🚀 Чем я занимаюсь
+
+- Разрабатываю frontend для сложных бизнес-приложений
+- Работаю с React, TypeScript, API и асинхронными сценариями
+- Проектирую интерфейсы с упором на UX и предсказуемость
+- Разбираюсь в производительности и архитектуре frontend-приложений
+- Постепенно углубляюсь в backend и инфраструктуру
+
+---
+
+## 📌 Проекты
+
+### Computer Vision для мониторинга животных
+
+Моя кандидатская диссертация - Проект по анализу видео с коровами: детекция, трекинг и анализ поведения объектов в заданных зонах.
+
+**Стек:**
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv)
+![YOLO](https://img.shields.io/badge/YOLOv8-6E42FF?style=for-the-badge)
+
+---
+
+### Rhythm
+
+Моё личное приложение, вокруг которого постепенно собирается целая экосистема идей, интерфейсов и механик.
+
+Иногда pet-project становится чем-то большим.
+
+---
+
+## 💼 Опыт
+
+Большая часть моего опыта связана с enterprise/frontend-разработкой:
+
+- большие таблицы и объёмы данных
+- фильтрация, сортировка и поиск
+- работа с API
+- обработка загрузок, ошибок и пустых состояний
+- поддержание предсказуемого состояния приложения
+- рефакторинг legacy-кода
+- интеграция современных решений в существующие системы
+
+---
+
+## 🧠 Сейчас изучаю
+
+- React Native
+- Expo
+- PostgreSQL
+- Docker
+- Архитектуру приложений
+- Product thinking
+
+---
+
+## 🤝 Контакты
+
+<p>
+  <a href="https://t.me/karzhen12">
+    <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="mailto:egor@cea7.ru">
+    <img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Пишу код, разбираюсь в продукте и постепенно собираю свой путь в сильную инженерную базу.</i>
+</p>
